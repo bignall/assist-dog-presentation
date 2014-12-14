@@ -2,10 +2,103 @@
     "index.md",
     {
         "attr": {
-            "data-background": "http://example.com/image.png"
+            "data-background": "/images/ettiquette.jpg"
         }
     },
-    "image-1.html",
-    "image-2.html",
-    "image-3.html"
+    {
+        "attr": {
+            "data-background": "/images/henry_task_01.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/300x_bayou-waesche_fides_01.JPG"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/adw_launch.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/article-1085732-02772BF1000005DC-340_468x705.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/Assistance-Dog-with-Owner-in-Wheelchair-Hugging.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/boyandgsd.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/codalaudry.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/dog2.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/dogandboy.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/dogassistshop.jpeg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/dog-help.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/dog-opens-door.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/DSC_0262-2.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/girlanddog.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/guidedog.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/henry_task_03.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/jacob-mya.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/laundrydog.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "/images/Mobility-Service-Dog-770x412.jpg"
+        }
+    },
+    "thank-you.html"
 ]
