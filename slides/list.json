@@ -1,5 +1,10 @@
 [
     "index.md",
+    {
+        "attr": {
+            "data-background": "http://example.com/image.png"
+        }
+    },
     "image-1.html",
     "image-2.html",
     "image-3.html"
