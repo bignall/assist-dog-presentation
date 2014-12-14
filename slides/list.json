@@ -1,104 +1,24 @@
 [
     "index.md",
-    {
-        "attr": {
-            "data-background": "/images/ettiquette.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/henry_task_01.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/300x_bayou-waesche_fides_01.JPG"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/adw_launch.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/article-1085732-02772BF1000005DC-340_468x705.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/Assistance-Dog-with-Owner-in-Wheelchair-Hugging.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/boyandgsd.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/codalaudry.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/dog2.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/dogandboy.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/dogassistshop.jpeg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/dog-help.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/dog-opens-door.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/DSC_0262-2.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/girlanddog.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/guidedog.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/henry_task_03.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/jacob-mya.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/laundrydog.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "/images/Mobility-Service-Dog-770x412.jpg"
-        }
-    },
+    "ettiquette.html",
+    "henry-task-01.html",
+    "bayou-waesche.html",
+    "adw-launch.html",
+    "article.html",
+    "hugging.html",
+    "boy-and-gsd.html",
+    "coda-laundry.html",
+    "dog-2.html",
+    "dog-and-boy.html",
+    "dog-assist-shop.html",
+    "dog-help.html",
+    "dog-opens-door.html",
+    "dsc.html",
+    "girl-and-dog.html",
+    "guide-dog.html",
+    "jacob-mya.html",
+    "laundry-dog.html",
+    "mobility-service-dog.html",
+    "henry-task-3.html",
     "thank-you.html"
 ]
